@@ -6,12 +6,12 @@ class Arcanist < Formula
 
   stable do
     url "https://github.com/wikimedia/arcanist/archive/release/2017-03-08/1.tar.gz"
-    sha256 "8edb125944f9aa3dc5ea082f2b080543ae324dba3cb055476f1db40219f222e6"
+    sha256 "95f966e1ba0ebce75cf237c7776b76adb4c24dfc844f80617b4a257c353754d2"
     version "201703081"
 
     resource "libphutil" do
       url "https://github.com/wikimedia/phabricator-libphutil/archive/release/2017-03-08/1.tar.gz"
-      sha256 "e15fe518cad38dea24bcf780b72089479dde1777f9ec23a9b0c9cd0edbd60f92"
+      sha256 "c6549081e6bf40b01763c96ae192d555670d93ed06f5bb04c092b54998382e48"
       version "201703081"
     end
   end
